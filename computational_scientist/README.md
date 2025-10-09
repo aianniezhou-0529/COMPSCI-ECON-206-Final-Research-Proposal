@@ -3,7 +3,7 @@
 This folder contains Python scripts and notebooks implementing the computational and algorithmic aspects of the project.
 
 ## Included Files
-- **trust_game_nashpy.ipynb** — Computes Nash and Subgame Perfect Nash Equilibria for the Trust Game using `NashPy`.
+- **Trust_Simple.ipynb** — Computes Nash and Subgame Perfect Nash Equilibria for the Trust Game using `NashPy`.
 - **auction_llm_simulation.ipynb** — Simulates bidding behavior in a first-price auction with both human and AI participants.
 
 ## Tools and Libraries
