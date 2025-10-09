@@ -66,28 +66,35 @@ From mastering **backward induction** and **SPNE** computation, to designing **A
 ---
 ## Table of Contents
 
-<Project-Name>: Play-to-Innovate/
-├── economist/                
-│   ├── trust_game_theory.md
-│   ├── welfare_fairness_analysis.md
-├── computational_scientist/  
-│   ├── trust_game_nashpy.ipynb
-│   ├── auction_llm_simulation.ipynb
-├── behavioral_scientist/     
-│   ├── otree_trustgame_app/
-│   ├── human_vs_llm_results.csv
-├── mechanism_design/         
-│   ├── quota_plus_design.md
-│   ├── voting_simulation.ipynb
-├── visualizations/           
-│   ├── payoff_matrices.png
-│   ├── equilibrium_diagrams.png
-│   ├── voting_flowchart.pdf
-├── docs/                     
-│   ├── Report.pdf
-│   ├── Poster.pdf
-│   └── FieldTripReflection.md
-└── README.md
+**Play-to-Innovate/**  
+**economist/**  
+trust_game_theory.md  
+welfare_fairness_analysis.md  
+
+**computational_scientist/**  
+trust_game_nashpy.ipynb  
+auction_llm_simulation.ipynb  
+
+**behavioral_scientist/**  
+otree_trust_simple zip/  
+human_vs_llm_results.zip  
+
+**mechanism_design/**  
+quota_plus_design.md  
+voting_simulation.ipynb  
+
+**visualizations/**  
+payoff_matrices.png  
+equilibrium_diagrams.png  
+voting_flowchart.pdf  
+
+**docs/**  
+Report.pdf  
+Poster.pdf  
+FieldTripReflection.md  
+
+**README.md**
+
 
 ---
 ## Navigation Instructions
