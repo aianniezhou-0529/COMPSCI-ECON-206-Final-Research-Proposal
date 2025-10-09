@@ -53,9 +53,9 @@ Non-compliance triggers a *compensation trigger*—financial penalties or reduce
 
 **Countermeasures:**
 - Introduce a **dynamic reputation score \( C_i \)** updated each period:
-  \[
-  C_i^{t+1} = (1-\delta) C_i^{t} + \delta \cdot f(a_i, \hat{s}_i)
-  \]
+$$
+C_i^{t+1} = (1-\delta)C_i^{t} + \delta \cdot f(a_i, \hat{s}_i)
+$$
   where \( a_i \) is actual compliance, \( \hat{s}_i \) is reported capacity.  
   Larger deviations reduce reputation and future allocation influence.
 - Design compensation rates so that fiscal alternatives are **not systematically cheaper** than direct hosting.
