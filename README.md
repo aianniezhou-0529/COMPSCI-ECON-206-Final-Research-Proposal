@@ -107,3 +107,5 @@ FieldTripReflection.md
 ---
 ## Embedded Media
 -this can be seen under the section **visualizations/**
+-https://github.com/aianniezhou-0529/COMPSCI-ECON-206-Final-Research-Proposal/blob/main/visualizations/COMPSCI-ECON206_demo%20vedio.7z
+-click **view raw** to download the video
