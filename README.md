@@ -106,3 +106,4 @@ FieldTripReflection.md
   
 ---
 ## Embedded Media
+-this can be seen under the section **visualizations/**
