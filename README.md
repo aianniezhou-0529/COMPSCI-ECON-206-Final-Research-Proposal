@@ -89,7 +89,7 @@ equilibrium_diagrams.png
 voting_flowchart.pdf  
 
 **docs/**  
-Report.pdf  
+Final Research Proposal.pdf  
 Poster.pdf  
 FieldTripReflection.md  
 
